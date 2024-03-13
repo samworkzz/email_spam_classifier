@@ -1,2 +1,3 @@
 # email_spam_classifier
-a practice email spam or ham classifier using logistic regression
+an email spam or ham classifier using logistic regression
+Why logistic regression? Because it is best suiatble for binary classification.
